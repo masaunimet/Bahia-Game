@@ -1,6 +1,5 @@
 # Bahia-Game 0.1.4
 Para jugar, se tiene que descargar en zip y descomprimirlo. Luego hacer click en la aplicacion llamada Bahia y listo
-***
 
 <h1>Cambios 0.1.4</h1>
 
